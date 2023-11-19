@@ -56,7 +56,30 @@ To run the app locally, make sure you have R installed on your machine. Install 
 ```R
 install.packages(c("shiny", "shinydashboard", "shinyalert", "tidyverse", "sf", "leaflet", "ggthemes", "plotly"))
 ```
+## Project Structure
 
+```pliantext
+.
+├── Death_Rate_Tracker
+│   ├── server.R
+│   └── ui.R
+├── data
+│   ├── CauseOfDeath(15-49).csv
+│   ├── CauseOfDeath(5-14).csv
+│   ├── CauseOfDeath(50-69).csv
+│   ├── CauseOfDeath(above70).csv
+│   ├── CauseOfDeath(under5).csv
+│   ├── DeathRate(World2019).csv
+│   └── WorldBoundaries.csv
+│       ├── world-administrative-boundaries.dbf
+│       ├── world-administrative-boundaries.prj
+│       ├── world-administrative-boundaries.shp
+│       └── world-administrative-boundaries.shx
+└── images
+    └── Demo.png
+
+5 directories, 13 files
+```
 ## Acknowledgments
 
 This app was developed as a part of a project to visualize and analyze death rate data for the year 2019. The data sources are credited in the references section.
