@@ -22,12 +22,17 @@ The app utilizes death rate data for the year 2019 from various sources, includi
 
 ![Demo](images/Demo.png)
 
+## Live App
+
+[Live App hosted on ShinyApps.io](https://chrisjohn.shinyapps.io/Death_Rate_Tracker_2019/)
+
+
 ## Usage
 
 1. Clone this repository to your local machine using the following command:
 
 ```bash 
-git clone https://github.com/your-username/death-rate-tracker.git  
+https://github.com/Git-With-Chris/DeathRateExplorer.git
 ```
 2. Open RStudio.
 3. Set your working directory to the location where you cloned the repository.
