@@ -32,7 +32,7 @@ The app utilizes death rate data for the year 2019 from various sources, includi
 1. Clone this repository to your local machine using the following command:
 
 ```bash 
-https://github.com/Git-With-Chris/DeathRateExplorer.git
+git clone https://github.com/Git-With-Chris/DeathRateExplorer.git
 ```
 2. Open RStudio.
 3. Set your working directory to the location where you cloned the repository.
