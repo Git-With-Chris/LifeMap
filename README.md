@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Grim Graphr (2019) Shiny App** is an interactive data visualization tool built using Shiny, Leaflet, Plotly, and other R packages. It allows users to explore and analyze death rates across different countries, age groups, and causes of death for the year 2019.
+The **Grim Graphr (2019) Shiny App** is an interactive data dashboard tool built using Shiny, Leaflet, Plotly, and other R packages. It allows users to explore and analyze death rates across different countries, age groups, and causes of death for the year 2019.
 
 ## Features
 
